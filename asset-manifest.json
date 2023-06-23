@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/supriya224/login-page/static/css/main.45b40fbe.css",
+    "main.js": "/supriya224/login-page/static/js/main.a3fd151f.js",
+    "static/media/image.jpeg": "/supriya224/login-page/static/media/image.bd52d0abfad84833f01e.jpeg",
+    "index.html": "/supriya224/login-page/index.html",
+    "main.45b40fbe.css.map": "/supriya224/login-page/static/css/main.45b40fbe.css.map",
+    "main.a3fd151f.js.map": "/supriya224/login-page/static/js/main.a3fd151f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45b40fbe.css",
+    "static/js/main.a3fd151f.js"
+  ]
+}
